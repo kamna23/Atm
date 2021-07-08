@@ -17,7 +17,7 @@ if pin==passward:
         try:
             option=int(input("Please enter your choice\n"))
         except:
-            print("please enter valid option")
+            print("Please enter valid option ")
         if option==1:
             print(f"Your current balance is {balance}")
             print("=========================================================")
@@ -50,4 +50,4 @@ if pin==passward:
         if option==4:
             break
 else:
-    print("wrong pin Please try again")
+    print(" Wrong pin Please try again ")
