@@ -1,3 +1,4 @@
+#small atm project on python
 import time
 print("Please insert your CARD")
 time.sleep(5)
