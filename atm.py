@@ -1,4 +1,5 @@
 #small atm project on python
+#in this project we form a atm in which if pin is equal to passard then we can perform 4 tasks that is check balance,withdraw money,add money in bank or exit fro88pm bank
 import time
 print("Please insert your CARD")
 time.sleep(5)
